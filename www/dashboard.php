@@ -8,3 +8,4 @@ if (isLoggedIn()) {
 } else {
     redirect('/login.php');
 }
+
